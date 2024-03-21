@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+    <header>
+
+    </header>
+
+
+    <main>
+        <section class="cancion1">
+            <article class="img1"> 
+                <img src="PUBLIC/IMG/img1.jpg" alt="mensaje de error" height="300">
+            </article>
+            <article class="audio1">
+                <audio src="PUBLIC/AUDIO/audio1.mp3" controls></audio>
+             </article>
+            <article class="video1">
+                <video src="PUBLIC/VIDEO/video1.mp4" controls></video>
+            </article>
+
+        </section>
+        <section class="cancion2">
+            <article class="img2">
+                <img src="PUBLIC/IMG/img2.jpg" alt="mensaje de error">
+            </article>
+            <article class="audio2">
+                <audio src="PUBLIC/AUDIO/audio2.mp3" controls></audio>
+            </article>
+            <article class="video2">
+                <video src="PUBLIC/VIDEO/video2.mp4" controls></video>
+            </article>
+
+            </article>
+            <article></article>
+        </section>
+
+        <section class="cancion3">
+            <article class="img3">
+                <img src="PUBLIC/IMG/img3.jpg" alt="mensaje de error">
+            </article>
+            <article class="audio3">
+                <audio src="PUBLIC/AUDIO/audio3.mp3" controls></audio>
+            </article>
+            <article class="video3">
+                <video src="PUBLIC/VIDEO/video3.mp4" controls></video>
+            </article>
+        </section>
+
+    </main>
+
+
+    <footer>
+
+    </footer>
+
+</body>
+</html>
